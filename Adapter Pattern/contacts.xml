@@ -1,0 +1,14 @@
+<contacts>
+    <contact>
+        <full_name>Pepper Roni</full_name>
+        <email>pepper.roni@pizzalove.com</email>
+        <phone_number>555-PIZZA</phone_number>
+        <is_friend>true</is_friend>
+    </contact>
+    <contact>
+        <full_name>Al E. Gator</full_name>
+        <email>al.gator@swampmail.com</email>
+        <phone_number>555-SNAP</phone_number>
+        <is_friend>false</is_friend>
+    </contact>
+</contacts>

@@ -1,0 +1,22 @@
+{
+    "contacts": [
+        {
+            "full_name": "Pepper Roni",
+            "email": "pepper.roni@pizzalove.com",
+            "phone_number": "555-PIZZA",
+            "is_friend": true
+        },
+        {
+            "full_name": "Al E. Gator",
+            "email": "al.gator@swampmail.com",
+            "phone_number": "555-SNAP",
+            "is_friend": false
+        },
+        {
+            "full_name": "Crystal Clearwater",
+            "email": "crystal.clear@sparklingwater.net",
+            "phone_number": "555-WAVE",
+            "is_friend": true
+        }
+    ]
+}
